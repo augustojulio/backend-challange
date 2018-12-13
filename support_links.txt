@@ -1,0 +1,14 @@
+Building a Restful Web Service Using Spring Boot, Spring Initializer, MongoDB and Swagger
+
+https://medium.com/@kaweelenaduwa/building-a-restful-web-service-using-spring-boot-spring-initializer-mongodb-and-swagger-b5efc534d874
+
+https://medium.com/@gtommee97/rest-api-java-spring-boot-and-mongodb-4dffbcabbaf5
+
+http://appsdeveloperblog.com/spring-boot-and-mongotemplate-tutorial-with-mongodb/
+
+https://dzone.com/articles/application-using-spring-boot-restful-webservices
+
+swagger generation with spring boot
+https://dzone.com/articles/swagger-generation-with-spring-boot
+https://dzone.com/articles/spring-boot-and-swagger-documenting-restful-servic
+http://www.springboottutorial.com/spring-boot-swagger-documentation-for-rest-services
