@@ -46,3 +46,9 @@ scalability.
 * Security
 * Swagger - https://swagger.io/
 * Clean Code
+
+
+## Commands
+
+* to cleanly build and install artifacts =>  mvn clean install
+* to start the Spring server with the default port 8080 => mvn spring-boot:run
