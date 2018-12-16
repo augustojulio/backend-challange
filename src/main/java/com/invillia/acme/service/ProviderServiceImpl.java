@@ -52,7 +52,7 @@ public class ProviderServiceImpl implements ProviderService {
  public Provider updateProvider(String id, Provider provider) {
   Provider updateInstance = this.findOne(id);
   updateInstance.setName(provider.getName());
-  updateInstance.setName(provider.getAddress());
+  updateInstance.setAddress(provider.getAddress());
   return providerRepository.save(updateInstance);
 }
 

@@ -6,5 +6,5 @@ import org.springframework.stereotype.Repository;
 import com.invillia.acme.model.Provider;
 
 @Repository
-public interface ProviderRepository extends MongoRepository<Provider,String>{
+public interface ProviderRepository extends MongoRepository<Provider, String>{
 }
