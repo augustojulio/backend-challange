@@ -12,7 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
 import model.Provider;
 import service.ProviderService;
 
-@RestController@RequestMapping("/providers")
+@RestController
+@RequestMapping("/providers")
 public class ProviderServiceController {
 
 @Autowired
