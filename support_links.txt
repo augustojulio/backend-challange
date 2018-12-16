@@ -10,6 +10,11 @@ http://appsdeveloperblog.com/spring-boot-and-mongotemplate-tutorial-with-mongodb
 
 https://dzone.com/articles/application-using-spring-boot-restful-webservices
 
+Order Items - One to Many
+https://grokonez.com/spring-framework/spring-data/mongodb-model-one-one-one-many-relationships-mongodb-embedded-documents-springboot
+https://grokonez.com/spring-framework/spring-boot/configure-spring-jpa-one-to-many-relationship-springboot
+https://github.com/vatri/spring-rest-ecommerce
+
 swagger generation with spring boot
 https://dzone.com/articles/swagger-generation-with-spring-boot
 https://dzone.com/articles/spring-boot-and-swagger-documenting-restful-servic
