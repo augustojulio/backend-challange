@@ -1,4 +1,4 @@
-package model;
+package com.invillia.acme.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

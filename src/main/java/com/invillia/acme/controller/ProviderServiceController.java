@@ -1,4 +1,4 @@
-package controller;
+package com.invillia.acme.controller;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import model.Provider;
-import service.ProviderService;
+import com.invillia.acme.model.Provider;
+import com.invillia.acme.service.ProviderService;
 
 @RestController
 @RequestMapping("/providers")

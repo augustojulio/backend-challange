@@ -1,8 +1,8 @@
-package service;
+package com.invillia.acme.service;
 
 import java.util.List;
 
-import model.Provider;
+import com.invillia.acme.model.Provider;
 
 //defining all the methods that controller can access
 

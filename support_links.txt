@@ -1,5 +1,7 @@
-Building a Restful Web Service Using Spring Boot, Spring Initializer, MongoDB and Swagger
+Spring-boot project structure reference
+https://github.com/springframeworkguru/springbootwebapp
 
+Building a Restful Web Service Using Spring Boot, Spring Initializer, MongoDB and Swagger
 https://medium.com/@kaweelenaduwa/building-a-restful-web-service-using-spring-boot-spring-initializer-mongodb-and-swagger-b5efc534d874
 
 https://medium.com/@gtommee97/rest-api-java-spring-boot-and-mongodb-4dffbcabbaf5

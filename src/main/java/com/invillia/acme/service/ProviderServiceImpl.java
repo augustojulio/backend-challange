@@ -1,5 +1,5 @@
 
-package service;
+package com.invillia.acme.service;
 
 import java.util.List;
 
@@ -7,9 +7,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import org.springframework.stereotype.Service;
 
-import model.Provider;
+import com.invillia.acme.model.Provider;
 
-import repository.ProviderRepository;
+import com.invillia.acme.repository.ProviderRepository;
 
 //implementing the business rules
 
