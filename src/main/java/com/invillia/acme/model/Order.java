@@ -7,10 +7,10 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class Order {
 
 @Id
- private String id;
- private String address;
- private Date confirmationDate;
- private String status;
+private String id;
+private String address;
+private String confirmationDate;
+private String status;
 
  public String getId() {
      return id;
@@ -28,11 +28,11 @@ public class Order {
      this.address = address;
  }
 
- public Date getConfirmationDate() {
+ public String getConfirmationDate() {
      return confirmationDate;
 }
 
-public void setConfirmationDate(Date confirmationDate) {
+public void setConfirmationDate(String confirmationDate) {
      this.confirmationDate = confirmationDate;
 }
 
